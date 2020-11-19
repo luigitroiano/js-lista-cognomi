@@ -10,4 +10,4 @@ console.log(cognomi);
 
 //Scrivi anche la posizione "umana" della lista in cui il nuovo utente si trova
 var posizioneCognomeUtente = cognomi.indexOf(cognomeUtente) + 1;
-console.log("Posizione umana " posizioneCognomeUtente);
+console.log("Posizione umana " + posizioneCognomeUtente);
